@@ -292,54 +292,6 @@ WHERE RowNo <= 1;
 
 ---
 
-# 🚀 How to Run the Project
-
-## 1. Install PostgreSQL
-
-Install PostgreSQL and pgAdmin 4.
-
-## 2. Create the database
-
-Create a database named:
-
-```text
-music_database
-```
-
-## 3. Import the database
-
-Import the provided PostgreSQL database dump into `music_database`.
-
-## 4. Open the queries
-
-Open:
-
-```text
-queries/music_database_queries.sql
-```
-
-in pgAdmin Query Tool.
-
-## 5. Execute the queries
-
-Run the queries individually and inspect the results.
-
----
-
-# 📁 Recommended Repository Structure
-
-```text
-music-database-sql-project/
-│
-├── README.md
-│
-├── database/
-│   └── music_database.sql
-│
-└── queries/
-    └── music_database_queries.sql
-```
-
 ---
 
 # 🎯 Learning Outcomes
@@ -356,10 +308,4 @@ This project demonstrates practical experience with:
 - Window functions
 - Business-oriented data analysis
 
----
 
-## 👨‍💻 Author
-
-**Navateja**
-
-B.Tech Computer Science Student
